@@ -15,9 +15,3 @@ Hi! I'm Khalid Boukssim, a Computer Engineering student at **Higher School of Te
 - Grow as a Full-Stack Developer
 - Contribute to open source projects
 - Keep learning and taking on new challenges
-
-
-
-### 📫 Get in Touch
-- **LinkedIn** : [linkedin.com/in/khalid-boukssim](https://www.linkedin.com/in/khalid-boukssim-043558389/)
-- **Email** : [boukssimkhaled@gmail.com](mailto:boukssimkhaled@gmail.com)

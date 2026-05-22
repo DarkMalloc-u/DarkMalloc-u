@@ -2,7 +2,7 @@
 
 **Junior Software Developer** | Computer Engineering Student | Lifelong Learner
 
----
+
 
 ###  About Me
 Hi! I'm Khalid Boukssim, a Computer Engineering student at **Ecole Supérieure de Technologie d'Agadir**. Passionate about software development, I enjoy learning new technologies and turning ideas into real solutions.
@@ -17,7 +17,7 @@ Hi! I'm Khalid Boukssim, a Computer Engineering student at **Ecole Supérieure d
 - Contribute to open source projects
 - Keep learning and taking on new challenges
 
----
+
 
 ### 📫 Get in Touch
 - **LinkedIn** : [linkedin.com/in/khalid-boukssim](https://www.linkedin.com/in/khalid-boukssim-043558389/)
